@@ -47,11 +47,8 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 ### 3. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
 **Descripción**: Esta aplicación te permite explorar, interactuar y disfrutar de una amplia colección de memes felinos. Desarrollada con React y estilizada con Tailwind CSS, MeCat ofrece una experiencia interactiva y responsiva para todos los amantes de los gatos y los memes.
 
-**Stack**: React: Para construir una interfaz de usuario dinámica y modular.
-Tailwind CSS: Para un diseño moderno y responsivo.
-ReactCardFlip: Para implementar el efecto de volteo en las tarjetas.
-Fetch API: Para manejar solicitudes HTTP y comunicación con la API.
-Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube
+**Stack**: React: Para construir una interfaz de usuario dinámica y modular, Tailwind CSS: Para un diseño moderno y responsivo, ReactCardFlip: Para implementar el efecto de volteo en las tarjetas, Fetch API: Para manejar solicitudes HTTP y comunicación con la API, Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube.
+
 ---
 
 ### 4. **[MinionArte](https://github.com/Dario3111/Minionarte)**
