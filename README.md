@@ -92,7 +92,7 @@ Como desarrollador **junior**, estoy buscando una oportunidad donde pueda poner 
 
 - **Email**: [merkandez@gmail.com](mailto:merkandez@gmail.com)
 - **LinkedIn**: [linkedin.com/in/cesarmercadoh](https://www.linkedin.com/in/cesarmercadoh)
-- **GitHub**: [github.com/merkandez](https://github.com/merkandez
+- **GitHub**: [github.com/merkandez](https://github.com/merkandez)
 
 ---
 
