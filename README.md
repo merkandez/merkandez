@@ -106,4 +106,4 @@ Como desarrollador **junior**, estoy buscando una oportunidad donde pueda poner 
 
 ---
 
-### "La tecnología es una herramienta; lo que realmente importa es el impacto que tiene en las personas."
+### "La tecnología es sólo una herramienta; lo que realmente importa es el impacto que tiene en las personas."
