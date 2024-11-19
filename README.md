@@ -30,31 +30,41 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 
 ## 📚 Proyectos Destacados
 
-### 1. **[Factoría de sonidos](https://github.com/merkandez/Toquen-el_DOM)**
-**Descripción**: El proyecto es una escuela online de música orientada a niños, con un enfoque especial en el piano, que tiene funcionalidades interactivas creadas con JavaScript. La estructura del sitio web incluye:
+---
 
-**Stack**: Node.js, npm.
+### 1. **[LuxMundi](https://github.com/merkandez/luxmundi)**
+**Descripción**: Es una aplicación desarrollada con Node.js, Express, JS, TS, React y Mysql. Se trata de un blog de viajes y fotografía diseñada con principios de sostenibilidad, accesibilidad y eficiencia energética en mente. Se Implementan operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest. y la implementación de un dashboard que permite, mediante la dministración de roles gestionar las funciones básicas del manejo de posts y usuarios desde una cuenta de administrador.
+
+**Stack**: Node.js, Express, MySQL, Sequelize, Jest, Supertest. (React-router-dom, Styled-Components, Swipper, react-icons, lucide-React, axios, react-hook-form)
+
+---
+### 2. **[MinionArte](https://github.com/Dario3111/Minionarte)**
+**Descripción**: Es una API RESTful desarrollada con Node.js y Express que permite gestionar un catálogo de memes. Implementa operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest.
+
+**Stack**: Node.js, Express, MySQL, Sequelize, MongoDB (con Mongoose), Jest, Supertest.
+
 
 ---
 
-### 2. **[HistoriCrud: Proyecto de Gestión de Eventos Históricos](https://github.com/merkandez/historicrud)**
+### 3. **[HistoriCrud: Proyecto de Gestión de Eventos Históricos](https://github.com/merkandez/historicrud)**
 **Descripción**: Este proyecto permite gestionar eventos históricos mediante una interfaz web utilizando JavaScript Vanilla y un servidor JSON. Puedes crear, leer, actualizar y eliminar eventos históricos. La interfaz los datos de cada evento en una tarjeta que puede generar un efecto "flip" y que permite ver la descripción de cada elemento organizado en un documento JSON.
 
 **Stack**: Node.js: Para generar un entorno dinámico. JavaScript Vanilla: Para la lógica y manipulación del DOM. JSON Server: Para proporcionar una API RESTful para gestionar los eventos.
 
 ---
 
-### 3. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
+### 4. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
 **Descripción**: Esta aplicación te permite explorar, interactuar y disfrutar de una amplia colección de memes felinos. Desarrollada con React y estilizada con Tailwind CSS, MeCat ofrece una experiencia interactiva y responsiva para todos los amantes de los gatos y los memes.
 
 **Stack**: React: Para construir una interfaz de usuario dinámica y modular, Tailwind CSS: Para un diseño moderno y responsivo, ReactCardFlip: Para implementar el efecto de volteo en las tarjetas, Fetch API: Para manejar solicitudes HTTP y comunicación con la API, Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube.
 
 ---
 
-### 4. **[MinionArte](https://github.com/Dario3111/Minionarte)**
-**Descripción**: Es una API RESTful desarrollada con Node.js y Express que permite gestionar un catálogo de memes. Implementa operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest.
+### 5. **[Factoría de sonidos](https://github.com/merkandez/Toquen-el_DOM)**
+**Descripción**: El proyecto es una escuela online de música orientada a niños, con un enfoque especial en el piano, que tiene funcionalidades interactivas creadas con JavaScript. La estructura del sitio web incluye:
 
-**Stack**: Node.js, Express, MySQL, Sequelize, MongoDB (con Mongoose), Jest, Supertest.
+**Stack**: Node.js, npm.
+
 
 ---
 
