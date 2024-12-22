@@ -38,7 +38,15 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 **Stack**: Node.js, Express, MySQL, Sequelize, Jest, Supertest. (React-router-dom, Styled-Components, Swipper, react-icons, lucide-React, axios, react-hook-form)
 
 ---
-### 2. **[MinionArte](https://github.com/Dario3111/Minionarte)**
+
+### 2. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
+**Descripción**: Esta aplicación te permite explorar, interactuar y disfrutar de una amplia colección de memes felinos. Desarrollada con React y estilizada con Tailwind CSS, MeCat ofrece una experiencia interactiva y responsiva para todos los amantes de los gatos y los memes.
+
+**Stack**: React: Para construir una interfaz de usuario dinámica y modular, Tailwind CSS: Para un diseño moderno y responsivo, ReactCardFlip: Para implementar el efecto de volteo en las tarjetas, Fetch API: Para manejar solicitudes HTTP y comunicación con la API, Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube.
+
+---
+
+### 3. **[MinionArte](https://github.com/Dario3111/Minionarte)**
 **Descripción**: Es una API RESTful desarrollada con Node.js y Express que permite gestionar un catálogo de memes. Implementa operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest.
 
 **Stack**: Node.js, Express, MySQL, Sequelize, MongoDB (con Mongoose), Jest, Supertest.
@@ -46,17 +54,11 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 
 ---
 
-### 3. **[HistoriCrud: Proyecto de Gestión de Eventos Históricos](https://github.com/merkandez/historicrud)**
+
+### 4. **[HistoriCrud: Proyecto de Gestión de Eventos Históricos](https://github.com/merkandez/historicrud)**
 **Descripción**: Este proyecto permite gestionar eventos históricos mediante una interfaz web utilizando JavaScript Vanilla y un servidor JSON. Puedes crear, leer, actualizar y eliminar eventos históricos. La interfaz los datos de cada evento en una tarjeta que puede generar un efecto "flip" y que permite ver la descripción de cada elemento organizado en un documento JSON.
 
 **Stack**: Node.js: Para generar un entorno dinámico. JavaScript Vanilla: Para la lógica y manipulación del DOM. JSON Server: Para proporcionar una API RESTful para gestionar los eventos.
-
----
-
-### 4. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
-**Descripción**: Esta aplicación te permite explorar, interactuar y disfrutar de una amplia colección de memes felinos. Desarrollada con React y estilizada con Tailwind CSS, MeCat ofrece una experiencia interactiva y responsiva para todos los amantes de los gatos y los memes.
-
-**Stack**: React: Para construir una interfaz de usuario dinámica y modular, Tailwind CSS: Para un diseño moderno y responsivo, ReactCardFlip: Para implementar el efecto de volteo en las tarjetas, Fetch API: Para manejar solicitudes HTTP y comunicación con la API, Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube.
 
 ---
 
