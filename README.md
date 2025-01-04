@@ -31,8 +31,6 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 ## 📚 Proyectos Destacados
 
 
----
-
 ### 1. **[odc_management_project](https://github.com/merkandez/odc_management_project)**
 **Descripción**: ODC Manager es una aplicación diseñada para gestionar y centralizar las inscripciones a los cursos que se imparten en ODC (Orange Digital Center) de manera eficiente, ofreciendo un panel de administración intuitivo y funcionalidades clave para simplificar el proceso de registro y seguimiento de datos.
 
