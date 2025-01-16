@@ -20,11 +20,23 @@ Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las
 
 ## 🛠️ ¿Qué puedo hacer?
 
-| 🌐 **Frontend**      | 🖥️ **Backend**       | 🗄️ **Bases de Datos**  | 🧠 **Soft Skills**      |
-| ------------------- | -------------------- | ---------------------- | ---------------------- |
-| HTML5, CSS3, React   | Node.js, Express.js  | MySQL, MongoDB         | Trabajo en equipo       |
-| JavaScript, TypeScript | API REST, Sequelize | SQL Server             | Resolución de problemas |
-| TailwindCSS, Framer Motion | JWT, Bcrypt     |                       | Comunicación clara      |
+| **🌐 Frontend**              | **🖥️ Backend**                 | **🗄️ Bases de Datos**          | **🛠️ Herramientas & Metodologías** |
+| ---------------------------- | ----------------------------- | ----------------------------- | ----------------------------------- |
+| HTML5, CSS3, TailwindCSS     | Node.js, Express.js           | MySQL, MongoDB               | Git, Docker, Postman               |
+| JavaScript, TypeScript, PHP  | API REST, Sequelize, JWT      | SQL Server                   | Figma, Jest, Supertest, Vitest     |
+| React, SASS, Styled Components | Bcrypt                      | Migraciones de bases de datos | Agile, Scrum, Jira, Trello         |
+| Framer Motion, WordPress     |                              |                               | Clean Code, SOLID, MVC             |
+
+---
+
+### **🧠 Soft Skills**
+
+| **Habilidades**             | **🌟 Otros**                   |
+| ---------------------------- | ----------------------------- |
+| Trabajo en equipo            | SEO técnico                  |
+| Resolución de problemas       | APIs RESTful                 |
+| Comunicación clara           | Diseño accesible             |
+| Adaptación y aprendizaje      | Innovación tecnológica       |
 
 ---
 
