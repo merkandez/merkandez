@@ -1,120 +1,156 @@
-# 👋 ¡Hola! Soy César
-
-Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las humanidades a la programación, descubriendo en el camino una nueva forma de crear impacto social. Lo que me mueve es la capacidad de combinar tecnología y valores para construir **soluciones digitales** que no solo funcionen, sino que **marquen la diferencia**.
-
----
-
-### "La programación no es solo escribir código, es crear soluciones para mejorar el mundo."
-
----
-
-## 🌟 ¿Quién soy?
-
-- 🎓 **De la Historia a la Tecnología**: Comencé mi carrera explorando el pasado como historiador, pero ahora me dedico a construir el futuro. Mi curiosidad intelectual y capacidad de análisis me ayudan a entender problemas complejos, mientras que mis habilidades técnicas me permiten crear soluciones innovadoras.
-  
-- 💻 **Bootcamp en Factoría F5**: Actualmente profundizo mis habilidades como desarrollador full stack, trabajando con tecnologías modernas como **JavaScript, React, Node.js, MySQL**, entre otras. ¡Siempre estoy buscando nuevas formas de aplicar mis conocimientos en proyectos reales!
-  
-- 🚀 **Apasionado por los Proyectos con Propósito**: Si bien soy un desarrollador junior, mi objetivo es claro: **impacto positivo**. Quiero seguir trabajando en proyectos que tengan relevancia en sectores como la **educación, las ONGs** y sobre todo persigo **proyectos de impacto social**. Aunque como junior estoy siempre **abierto a cualquier desafío** donde pueda crecer y aprender.
-
----
-
-## 🛠️ ¿Qué puedo hacer?
-
-| **🌐 Frontend**              | **🖥️ Backend**                 | **🗄️ Bases de Datos**          | **🛠️ Herramientas & Metodologías** |
-| ---------------------------- | ----------------------------- | ----------------------------- | ----------------------------------- |
-| HTML5, CSS3, TailwindCSS     | Node.js, Express.js           | MySQL, MongoDB               | Git, Docker, Postman               |
-| JavaScript, TypeScript, PHP  | API REST, Sequelize, JWT      | SQL Server                   | Figma, Jest, Supertest, Vitest     |
-| React, SASS, Styled Components | Bcrypt                      | Migraciones de bases de datos | Agile, Scrum, Jira, Trello         |
-| Framer Motion, WordPress     |                              |                               | Clean Code, SOLID, MVC             |
-
----
-
-### **🧠 Soft Skills**
-
-| **Habilidades**             | **🌟 Otros**                   |
-| ---------------------------- | ----------------------------- |
-| Trabajo en equipo            | SEO técnico                  |
-| Resolución de problemas       | APIs RESTful                 |
-| Comunicación clara           | Diseño accesible             |
-| Adaptación y aprendizaje      | Innovación tecnológica       |
-
----
-
-## 📚 Proyectos Destacados
+<!-- Cabecera animada -->
+<h1 align="center"> César Mercado</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/merkandez/merkandez/main/assets/banner-linkedin.png" alt="César Mercado - Full Stack & IA" width="100%" />
+</p>
+<!-- <h3 align="center">Full Stack Developer · Data Science & Machine Learning</h3> -->
 
 
-### 1. **[odc_management_project](https://github.com/merkandez/odc_management_project)**
-**Descripción**: ODC Manager es una aplicación diseñada para gestionar y centralizar las inscripciones a los cursos que se imparten en ODC (Orange Digital Center) de manera eficiente, ofreciendo un panel de administración intuitivo y funcionalidades clave para simplificar el proceso de registro y seguimiento de datos.
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=De+la+Historia+al+Código;De+Full+Stack+a+IA+%26+ML;Construyendo+soluciones+con+datos+y+algoritmos;Aprendiendo+y+compartiendo+cada+día" alt="Typing SVG" />
+</p> -->
 
-**Stack**: React (Vite), axios, Tailwind CSS, Tremor, Node.js, express, js, sequelize, bcrypt, jwt, Jest, supertest
+<br/>
 
----
-
-### 2. **[LuxMundi](https://github.com/merkandez/luxmundi)**
-**Descripción**: Es una aplicación desarrollada con Node.js, Express, JS, TS, React y Mysql. Se trata de un blog de viajes y fotografía diseñada con principios de sostenibilidad, accesibilidad y eficiencia energética en mente. Se Implementan operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest. y la implementación de un dashboard que permite, mediante la dministración de roles gestionar las funciones básicas del manejo de posts y usuarios desde una cuenta de administrador.
-
-**Stack**: Node.js, Express, MySQL, Sequelize, Jest, Supertest. (React-router-dom, Styled-Components, Swipper, react-icons, lucide-React, axios, react-hook-form, vitest)
-
----
-
-### 3. **[MeCat](https://github.com/jruizndev/memecatmuseum)**
-**Descripción**: Esta aplicación te permite explorar, interactuar y disfrutar de una amplia colección de memes felinos. Desarrollada con React y estilizada con Tailwind CSS, MeCat ofrece una experiencia interactiva y responsiva para todos los amantes de los gatos y los memes.
-
-**Stack**: React: Para construir una interfaz de usuario dinámica y modular, Tailwind CSS: Para un diseño moderno y responsivo, ReactCardFlip: Para implementar el efecto de volteo en las tarjetas, Fetch API: Para manejar solicitudes HTTP y comunicación con la API, Cloudinary: Para el almacenamiento y gestión de las imágenes en la nube.
-
----
-
-### 4. **[MinionArte](https://github.com/Dario3111/Minionarte)**
-**Descripción**: Es una API RESTful desarrollada con Node.js y Express que permite gestionar un catálogo de memes. Implementa operaciones CRUD con validaciones y manejo de errores utilizando Sequelize como ORM para interactuar con una base de datos MySQL. Además, incluye un conjunto de pruebas automatizadas con Jest y Supertest.
-
-**Stack**: Node.js, Express, MySQL, Sequelize, MongoDB (con Mongoose), Jest, Supertest.
-
----
-
-### 5. **[HistoriCrud: Proyecto de Gestión de Eventos Históricos](https://github.com/merkandez/historicrud)**
-**Descripción**: Este proyecto permite gestionar eventos históricos mediante una interfaz web utilizando JavaScript Vanilla y un servidor JSON. Puedes crear, leer, actualizar y eliminar eventos históricos. La interfaz los datos de cada evento en una tarjeta que puede generar un efecto "flip" y que permite ver la descripción de cada elemento organizado en un documento JSON.
-
-**Stack**: Node.js: Para generar un entorno dinámico. JavaScript Vanilla: Para la lógica y manipulación del DOM. JSON Server: Para proporcionar una API RESTful para gestionar los eventos.
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/cesarmercadoh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:merkandez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/merkandez">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
-- 🌍 **Proyectos a través del Kit Digital**: He colaborado en la gestión, diseño y desarrollo de sitios web para diversas empresas, gestionando la implementación de soluciones **WordPress** y **WooCommerce**. Algunos de mis proyectos destacados incluyen:
-  - [Cepeda](https://cepeda.es/)
-  - [Alegre Fernández Alegre](https://alegrefernandezalegre.com/)
-  - [Marta Hidalgo Shiatsu](https://martahidalgoshiatsu.com/)
-  - [Oro del Tietar](https://orodeltietar.com/)
-  - [Casa Chino Hervás](https://casachinohervas.com/)
-  - [Apartamentos Vedelejos](https://apartamentosvedelejos.com/)
-  - [WikiRed Europarc](https://wikiredeuroparc.org/)
-  - [Luna House](https://lunahouse.es/)
-  - [Podología Jery Martín](https://podologiajerymartin.com/)
-  - [Baile con Estilo](https://baileconestilo.com/)
+## 🕰️ **De la Historia al Código**
+
+
+Soy un **desarrollador full stack** con una historia algo peculiar: pasé de las **humanidades** a la **inteligencia artificial**, descubriendo en el camino una nueva forma de crear impacto.  
+Mi formación en Historia me enseñó a **analizar, contextualizar y encontrar patrones** — habilidades que hoy aplico al análisis de datos y al desarrollo de soluciones basadas en IA.  
+
+Lo que me mueve es la capacidad de combinar **tecnología, pensamiento crítico y creatividad** para construir herramientas que no solo funcionen, sino que **mejoren la vida de las personas**.  
+Creo en una IA que **entiende el problema, optimiza el proceso y aporta valor real**.  
+
+> 💬 *“La programación no es solo escribir código, es crear soluciones que cambian la forma en que entendemos el mundo.”*
  
----
-
-## 🚀 Mi Estilo de Trabajo
-
-✨ **Creativo y Eficiente**: Disfruto encontrar soluciones ingeniosas y rápidas, sobre todo en proyectos que requieren improvisación y un enfoque práctico.
-
-💡 **Colaborativo**: He trabajado en equipos diversos, donde aprendí la importancia de una buena comunicación y coordinación para lograr resultados sobresalientes.
-
-🔧 **Aprendizaje continuo**: Siempre estoy buscando nuevas herramientas y tecnologías que me permitan optimizar mi trabajo y estar al día con las tendencias del desarrollo.
 
 ---
 
-## 🎯 ¿Qué Busco?
+## 🛠️ Tech Stack  
 
-Como desarrollador **junior**, estoy buscando una oportunidad donde pueda poner en práctica lo que sé, aprender de los mejores, y trabajar en proyectos con **impacto real**. Me interesa especialmente el trabajo en sectores donde la tecnología pueda **mejorar la vida de las personas**.
+### 🤖 IA & Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0071C5?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-0C3B5E?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF4081?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-3A3A3A?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![Agents](https://img.shields.io/badge/MultiAgent-9400D3?style=for-the-badge)
+
+### ⚙️ Backend  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST](https://img.shields.io/badge/API_REST-FF6F00?style=for-the-badge)
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🗄️ Bases de Datos & Data  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0055FF?style=for-the-badge)
+
+### ☁️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🎛️ Apps Interactivas  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge)
 
 ---
 
-## 📬 ¡Conecta conmigo!
+## 📚 Proyectos Destacados  
 
-- **Email**: [merkandez@gmail.com](mailto:merkandez@gmail.com)
-- **LinkedIn**: [linkedin.com/in/cesarmercadoh](https://www.linkedin.com/in/cesarmercadoh)
-- **GitHub**: [github.com/merkandez](https://github.com/merkandez)
+### 🩺 Stroke Predictor – IA Médica  
+📌 App para predicción de ictus combinando **CNN en PyTorch** con explicabilidad vía **SHAP**.  
+⚙️ Stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)  
+<!-- 📷 *(Aquí podrás añadir una captura del dashboard de predicciones)*  --> 
 
 ---
 
-### "La tecnología es sólo una herramienta; lo que realmente importa es el impacto que tiene en las personas."
+### 🧩 ODC Management – Gestión de Cursos  
+📌 Aplicación interna para Orange Digital Center · Gestión de inscripciones y panel de administración.  
+⚙️ Stack:  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  
+<!-- 📷 *(Aquí podrás añadir una captura del panel de gestión)*   -->
+
+---
+
+### 🌱 LuxMundi – Blog Sostenible  
+📌 Blog de viajes y fotografía diseñado con criterios de accesibilidad y sostenibilidad digital.  
+⚙️ Stack:  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) 
+![Bcrypt](https://img.shields.io/badge/Bcrypt-00BFFF?style=flat)  
+<!-- 📷 *(Aquí podrás añadir una captura del blog en modo oscuro)*   -->
+
+---
+
+## 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merkandez&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merkandez&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merkandez&theme=radical" alt="Profile summary card"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=merkandez&theme=radical" alt="César's github activity graph" />
+  </a>
+</p>
+
+
+
+---
+
+
+
+✨ *“La tecnología es solo una herramienta; lo que realmente importa es el impacto que tiene en las personas.”*  
